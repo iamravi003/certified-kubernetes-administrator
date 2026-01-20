@@ -13,3 +13,4 @@ spec:
   - name: config
     configMap:
       name: configmap-3
+Hello world 
